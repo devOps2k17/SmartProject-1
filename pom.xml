@@ -3,6 +3,7 @@
   <groupId>SmartProject</groupId>
   <artifactId>SmartProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
   <name>SmartProject</name>
   <description>SmartProject</description>
   <dependencies>
