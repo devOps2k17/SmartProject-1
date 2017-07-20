@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>SmartProject</groupId>
   <artifactId>SmartProject</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>SmartProject</name>
   <description>SmartProject</description>
